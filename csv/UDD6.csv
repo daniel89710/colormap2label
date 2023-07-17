@@ -1,0 +1,7 @@
+id,name,r,g,b
+0,other,0,0,0
+1,facade,102,102,156
+2,road,128,64,128
+3,vegetation,107,142,35
+4,vehicle,0,0,142
+5,roof,70,70,70

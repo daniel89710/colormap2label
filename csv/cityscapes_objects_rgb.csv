@@ -1,0 +1,11 @@
+id,name,r,g,b
+1,car,0,0,142
+1,truck,0,0,70
+1,bus,0,60,100
+1,train,0,80,100
+1,motorcycle,0,0,230
+1,bicycle,119,11,32
+2,person,220,20,60
+2,ride,255,0,0
+3,traffic_light,250,170,30
+4,traffic_sign,220,220,0

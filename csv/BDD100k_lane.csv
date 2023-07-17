@@ -1,0 +1,10 @@
+id,name,r,g,b
+0,background,0,0,0
+1,crosswalk,219,94,86
+2,double_other,86,111,219
+3,dobule_white,145,219,86
+4,dobule_yellow,86,219,127
+5,road_curb,86,211,219
+6,single_other,219,194,86
+7,single_white,160,86,219
+8,single_yellow,219,86,178
